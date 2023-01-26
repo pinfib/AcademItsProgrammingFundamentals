@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticMean", "ArithmeticMean\ArithmeticMean.csproj", "{486FF100-7978-48AC-A88B-D7939470A81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{FC423F27-21BA-4302-99A3-CDCB1CB10E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticMeanDoWhile", "ArithmeticMeanDoWhile\ArithmeticMeanDoWhile.csproj", "{2E247838-3CEB-40EB-A9CA-1D5D49F6FA7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RowSum", "RowAmount\RowSum.csproj", "{DC28933A-ADA0-45F9-8F7D-202FE6E4AE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInString (Simple)", "NumbersInString (Simple)\NumbersInString (Simple).csproj", "{76CDDA2A-30BE-4E01-9D8A-58FBD36B856E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInString (Hard)", "NumbersInStringHard\NumbersInString (Hard).csproj", "{67CBF9FC-E7CD-4493-8DF1-C4914F67B362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberDigits", "NumberDigits\NumberDigits.csproj", "{32666FE2-864E-4962-BD3B-1E3FDC4C44E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486FF100-7978-48AC-A88B-D7939470A81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486FF100-7978-48AC-A88B-D7939470A81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486FF100-7978-48AC-A88B-D7939470A81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486FF100-7978-48AC-A88B-D7939470A81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC423F27-21BA-4302-99A3-CDCB1CB10E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC423F27-21BA-4302-99A3-CDCB1CB10E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC423F27-21BA-4302-99A3-CDCB1CB10E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC423F27-21BA-4302-99A3-CDCB1CB10E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E247838-3CEB-40EB-A9CA-1D5D49F6FA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E247838-3CEB-40EB-A9CA-1D5D49F6FA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E247838-3CEB-40EB-A9CA-1D5D49F6FA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E247838-3CEB-40EB-A9CA-1D5D49F6FA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC28933A-ADA0-45F9-8F7D-202FE6E4AE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC28933A-ADA0-45F9-8F7D-202FE6E4AE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC28933A-ADA0-45F9-8F7D-202FE6E4AE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC28933A-ADA0-45F9-8F7D-202FE6E4AE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CDDA2A-30BE-4E01-9D8A-58FBD36B856E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CDDA2A-30BE-4E01-9D8A-58FBD36B856E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CDDA2A-30BE-4E01-9D8A-58FBD36B856E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CDDA2A-30BE-4E01-9D8A-58FBD36B856E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CBF9FC-E7CD-4493-8DF1-C4914F67B362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CBF9FC-E7CD-4493-8DF1-C4914F67B362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CBF9FC-E7CD-4493-8DF1-C4914F67B362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CBF9FC-E7CD-4493-8DF1-C4914F67B362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32666FE2-864E-4962-BD3B-1E3FDC4C44E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32666FE2-864E-4962-BD3B-1E3FDC4C44E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32666FE2-864E-4962-BD3B-1E3FDC4C44E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32666FE2-864E-4962-BD3B-1E3FDC4C44E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3424C658-C776-4CF5-8341-124D41169759}
+	EndGlobalSection
+EndGlobal
